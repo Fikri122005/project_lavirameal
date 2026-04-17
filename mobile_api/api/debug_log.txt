@@ -1,0 +1,22 @@
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"admin","email":"admin@gmail.com","password":"password"}
+Method: POST
+Raw Input: {"name":"Deden","email":"deden@gmail.com","password":"123456"}
+Method: POST
+Raw Input: {"name":"dedih","email":"dedihthea@gmail.com","password":"12345"}
+Method: POST
+Raw Input: {"name":"amir","email":"amir@gmail.com","password":"12345"}
+Method: POST
+Raw Input: {"full_name":"Mukhammad Fikri","email":"ardiansyahfikri621@gmail.com","username":"ardiansyahfikri621","password":"12345","user_type":"pelapor"}
